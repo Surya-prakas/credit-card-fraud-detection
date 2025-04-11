@@ -8,7 +8,7 @@ app = FastAPI()
 # 🚀 Add this for CORS
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["*"],  # Allow all origins (or put your Netlify URL here for more security)
+    allow_origins=["*"],  # For testing, allow all
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
