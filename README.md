@@ -1,2 +1,13 @@
-# credit-card-fraud-detection
-Cloud-driven Credit Card Fraud Detection using Deep Learning
+# Cloud-Driven Credit Card Fraud Detection Using Deep Learning
+
+This project is a cloud-deployed Credit Card Fraud Detection system using Logistic Regression (Machine Learning).
+
+## Features
+- Predict if a transaction is Fraud or Legitimate.
+- API built with FastAPI.
+- Deployed on Azure App Service.
+
+...
+
+## Project Author
+- [Your Name]
